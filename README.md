@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm dufi! I enjoy keeping up with advancements in AI and how it will be applied to programming; I'm a huge Pokémon fan and have even won several tournaments!<br><hr><br><br>- 📚 I am taking a Systems Development technical course at SENAI.<br>- ⚡ In my free time I program, study, play soccer and play games</p>
+<p data-importer="text" align="left">Hi, I'm dufi! I enjoy keeping up with advancements in AI and how it will be applied to programming; I'm a huge Pokémon fan and have even won several tournaments!<br><hr><br>- 📚 I am taking a Systems Development technical course at SENAI.<br>- ⚡ In my free time I program, study, play soccer and play games</p>
 
 ###
 
