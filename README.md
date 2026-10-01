@@ -34,9 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
   
-  <p>- Dominio de Todas linguagens e ferramentas acima: Basico</p>
-  
-  ###
   <hr>
   
 </div>
